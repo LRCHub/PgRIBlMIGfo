@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワールドエンドガールフレンド",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-22T15:15:04.187972Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールドエンドガールフレンド",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ワールドエンドガールフレンド_RADWIMPS.txt"
+    }
+  ]
+}
